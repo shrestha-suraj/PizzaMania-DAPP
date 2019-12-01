@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>
+        PizzaMania
+    </title>
+    <!--Required Header Files for Metadata and Bootstrap Contents-->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        crossorigin="anonymous">
+
+    <!--Any other requires CSS files-->
+    <link rel="stylesheet" type="text/css" href="stylesheets/common.css" />
+    <link rel="stylesheet" type="text/css" href="stylesheets/index.css" />
+
+</head>
+
+<body>
+    <!--Loading a Javascript that just counts number of items in cart of a person making pizza purchase-->
+    <script src="purchase_hub.js"></script>
+
+
+    <!--This div is created only to set footer at the bootom of page-->
+    <div id="header_body_div">
+        <header>
+            <!--Header Call-->
+            <script src="js/header.js"></script>
+        </header>
+
+        <!--This is the body part for the index.html page which is the first page users see when they go to website.
+        Since this website is based on decentralized app, there is no login screen and hence no data collection i.e Database
+    -->
+        <div class="container-fluid">
+            <h2 class="text-center mt-3">Select Pizza Places From Below</h2>
+            <div class="row mt-5" id="home_body"></div>
+        </div>
+    </div>
+    <!--This is the footer part of the website which just has the information about creater i.e. Me-->
+    <footer>
+        <script src="js/footer.js"></script>
+    </footer>
+
+
+
+
+
+    <!--Bootstrap scripts call for navigation toggle button during use on phone-->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+
+
+    <!--Necessary Javascript Calls-->
+    <script src="data/data_send.js"></script>
+    <script src="js/home_body.js"></script>
+</body>
+
+</html>

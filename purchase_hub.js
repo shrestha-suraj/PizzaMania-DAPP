@@ -1,0 +1,1 @@
+var items_in_cart=0;

@@ -1,0 +1,6 @@
+.card:hover{
+    transition:0.07s all ease;
+    transform:scale(1.1);
+    border:solid 5px red
+}
+

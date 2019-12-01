@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color:	#232136;
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    position: relative;
+    min-height: 100vh;
+
+}
+#header_body_div{
+    padding-bottom: 2.5rem;
+}

@@ -1,0 +1,19 @@
+[{
+        "name": "Dominos Pizza",
+        "imageurl": "media/pizza_places/dominos.png",
+        "description": "Text 1",
+        "link": "dominos.html"
+    },
+    {
+        "name": "Papa Johns",
+        "imageurl": "media/pizza_places/papa-johns.png",
+        "description": "Text 2",
+        "link": "papajohns.html"
+    },
+    {
+        "name": "Marcos Pizza",
+        "imageurl": "media/pizza_places/marcos.png",
+        "description": "Text 3",
+        "link": "marcos.html"
+    }
+]
