@@ -2,63 +2,109 @@
     "dominos": [{
             "title": "ExtravaganZZa Pizza",
             "pizzaurl": "https://cache.dominos.com/olo/6_5_2/assets/build/market/US/_en/images/img/products/larges/S_ZZ.jpg",
-            "description": "Pepperoni, ham, Italian sausage, beef, fresh onions, fresh green peppers, fresh mushrooms and black olives, all sandwiched between two layers of cheese made with 100% real mozzarella."
+            "description": "Pepperoni, ham, Italian sausage, beef, fresh onions, fresh green peppers, fresh mushrooms and black olives, all sandwiched between two layers of cheese made with 100% real mozzarella.",
+            "price": "0.0660 ETH",
+            "data_key":"1"
         },
         {
             "title": "MeatZZa Pizza",
             "pizzaurl": "https://cache.dominos.com/olo/6_5_2/assets/build/market/US/_en/images/img/products/larges/S_MX.jpg",
-            "description": "Pepperoni, ham, Italian sausage and beef, all sandwiched between two layers of cheese made with 100% real mozzarella."
+            "description": "Pepperoni, ham, Italian sausage and beef, all sandwiched between two layers of cheese made with 100% real mozzarella.",
+            "price": "0.0642 ETH",
+            "data_key":"2"
         },
         {
             "title": "Philly Cheese Steak Pizza",
             "pizzaurl": "https://cache.dominos.com/olo/6_5_2/assets/build/market/US/_en/images/img/products/larges/S_PIZPH.jpg",
-            "description": "Tender slices of steak, fresh onions, fresh green peppers, fresh mushrooms, provolone and American cheese."
+            "description": "Tender slices of steak, fresh onions, fresh green peppers, fresh mushrooms, provolone and American cheese.",
+            "price": "0.0701 ETH",
+            "data_key":"3"
         },
         {
             "title": "Veggie Pizza",
             "pizzaurl": "https://cache.dominos.com/olo/6_5_2/assets/build/market/US/_en/images/img/products/larges/S_PIZPV.jpg",
-            "description": "Roasted red peppers, fresh baby spinach, fresh onions, fresh mushrooms, tomatoes, black olives, feta, provolone, cheese made with 100% real mozzarella and sprinkled with a garlic herb seasoning."
+            "description": "Roasted red peppers, fresh baby spinach, fresh onions, fresh mushrooms, tomatoes, black olives, feta, provolone, cheese made with 100% real mozzarella and sprinkled with a garlic herb seasoning.",
+            "price": "0.0653 ETH",
+            "data_key":"4"
         },
         {
             "title": "Honolulu Hawaiian Pizza",
             "pizzaurl": "https://cache.dominos.com/olo/6_5_2/assets/build/market/US/_en/images/img/products/larges/S_PIZUH.jpg",
-            "description": "Sliced ham, smoked bacon, pineapple, roasted red peppers, provolone and cheese made with 100% real mozzarella."
+            "description": "Sliced ham, smoked bacon, pineapple, roasted red peppers, provolone and cheese made with 100% real mozzarella.",
+            "price": "0.0704 ETH",
+            "data_key":"5"
         },
         {
             "title": "Deluxe Pizza",
             "pizzaurl": "https://cache.dominos.com/olo/6_5_2/assets/build/market/US/_en/images/img/products/larges/S_DX.jpg",
-            "description": "Pepperoni, Italian sausagem fresh green peppers, fresh mushrooms, fresh onions and cheese made with 100% real mozzarella."
+            "description": "Pepperoni, Italian sausagem fresh green peppers, fresh mushrooms, fresh onions and cheese made with 100% real mozzarella.",
+            "price": "0.0736 ETH",
+            "data_key":"6"
         },
         {
             "title": "Chicken Bacon Ranch Pizza",
             "pizzaurl": "https://cache.dominos.com/olo/6_5_2/assets/build/market/US/_en/images/img/products/larges/S_PIZCR.jpg",
-            "description": "Grilled chicken breast, garlic Parmesan white sauce, smoked bacon, tomatoes, provolone and cheese made with 100% real mozzarella."
+            "description": "Grilled chicken breast, garlic Parmesan white sauce, smoked bacon, tomatoes, provolone and cheese made with 100% real mozzarella.",
+            "price": "0.0700 ETH",
+            "data_key":"7"
         },
         {
             "title": "Buffalo Chicken Pizza",
             "pizzaurl": "https://cache.dominos.com/olo/6_5_2/assets/build/market/US/_en/images/img/products/larges/S_PIZBP.jpg",
-            "description": "Grilled chicken breast, fresh onions, provolone, American cheese, cheddar, cheese made with 100% real mozzarella and drizzled witt a hot sauce."
+            "description": "Grilled chicken breast, fresh onions, provolone, American cheese, cheddar, cheese made with 100% real mozzarella and drizzled witt a hot sauce.",
+            "price": "0.0635 ETH",
+            "data_key":"8"
         }
     ],
     "papajohns":[{
             "title":"The Works",
             "pizzaurl":"https://www.papajohns.com/static-assets/a/images/web/product/pizzas/the-works-slate-compressed.jpg",
-            "description":""
+            "description":"Pepperoni, Italian sausagem fresh green peppers, fresh mushrooms, fresh onions and cheese made with 100% real mozzarella.",
+            "price": "0.0531 ETH",
+            "data_key":"1"
         },
         {
             "title":"The Meats",
             "pizzaurl":"https://www.papajohns.com/static-assets/a/images/web/product/pizzas/the-meats-slate-compressed.jpg",
-            "description":""
+            "description":"Pepperoni, ham, Italian sausage and beef, all sandwiched between two layers of cheese made with 100% real mozzarella.",
+            "price":"0.0590 ETH",
+            "data_key":"2"
         },
         {
             "title":"Garden Fresh",
             "pizzaurl":"https://www.papajohns.com/static-assets/a/images/web/product/pizzas/garden-fresh-slate-compressed.jpg",
-            "description":""
+            "description":"Roasted red peppers, fresh baby spinach, fresh onions, fresh mushrooms, tomatoes, black olives, feta, provolone, cheese made with 100% real mozzarella and sprinkled with a garlic herb seasoning.",
+            "price":"0.0608 ETH",
+            "data_key":"3"
         },
         {
             "title":"Hawaiian BBQ Chicken",
             "pizzaurl":"https://www.papajohns.com/static-assets/a/images/web/product/pizzas/std_Hawaiian_BBQ-compressed.jpg",
-            "description":""
+            "description":"Sliced ham, smoked bacon, pineapple, roasted red peppers, provolone and cheese made with 100% real mozzarella.",
+            "price": "0.0622 ETH",
+            "data_key":"4"
+        },
+        {
+            "title":"Ultimate Pepperoni",
+            "pizzaurl":"https://www.papajohns.com/static-assets/a/images/web/product/pizzas/ultimate-pepp-slate-compressed.jpg",
+            "description":"Pepperoni, ham, Italian sausage, beef, fresh onions, fresh green peppers, fresh mushrooms and black olives, all sandwiched between two layers of cheese made with 100% real mozzarella.",
+            "price": "0.0661 ETH",
+            "data_key":"5"
+        },
+        {
+            "title":"Zesty Italian Trio",
+            "pizzaurl":"https://www.papajohns.com/static-assets/a/images/web/product/pizzas/zesty-italian-trio-slate-compressed.jpg",
+            "description":"Grilled chicken breast, fresh onions, provolone, American cheese, cheddar, cheese made with 100% real mozzarella and drizzled witt a hot sauce.",
+            "price": "0.0693 ETH",
+            "data_key":"6"
+        },
+        {
+            "title":"BBQ Chicken Bacon",
+            "pizzaurl":"https://www.papajohns.com/static-assets/a/images/web/product/pizzas/zesty-italian-trio-slate-compressed.jpg",
+            "description":"Grilled chicken breast, garlic Parmesan white sauce, smoked bacon, tomatoes, provolone and cheese made with 100% real mozzarella.",
+            "price": "0.0701 ETH",
+            "data_key":"7"
         }
+        
     ]
 }
