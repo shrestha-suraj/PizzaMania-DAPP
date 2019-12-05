@@ -51,7 +51,11 @@ function loadDiv(pizzaPlace, pizzaKey) {
                                 <h1 id="totalCost" class="text-success">Total: ${pizza_item.price}</h1>                           
                             </div>
                             <br>
-                            <button class="btn btn-info" onclick="makeTransaction()">Purchase</button>
+                            <div style="display:inline">
+                                <button class="btn btn-info" onclick="makeTransactionEther()">Purchase</button>
+                                <button class="btn btn-info" onclick="makeTransactionPoints()">Use Points</button>
+                            </div>
+                            <br><br>
                             <p class="text-danger">All sales are final. Please check the quntity carefully.</p>
                             <h4 class="text-danger">
                                 Public Address used for transaction:<br>
