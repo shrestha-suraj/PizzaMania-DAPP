@@ -16,6 +16,9 @@ const header_content= `
                                         <a class="nav-link" href="../about.html">About US</a>
                                     </li>
                                 </ul>
+                                <div style="width:fit-content;heigth:100%" class="d-inline">
+                                <h2 id="points_earned"></h2>
+                                </div>
                             </div>
                         </nav>`;
 header.innerHTML=header_content;
