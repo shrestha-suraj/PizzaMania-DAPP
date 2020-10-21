@@ -1,5 +1,8 @@
 # PizzaMania-dapp
 
+## Demo Web Application
+<image src="./demo.gif"/>
+
 This is a web based application where people get rewards for ordering pizza from some of the Pizza places.
 The front end is made using HTML, CSS and JS.
 There is no database related with this app cause of its decentralization nature.
